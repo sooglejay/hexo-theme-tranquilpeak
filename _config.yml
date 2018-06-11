@@ -57,30 +57,30 @@ sidebar:
             url: /#about
             icon: question
     author_links:
-        # github:
-        #     title: global.github
-        #     url: https://github.com/
-        #     icon: github
-        # stack_overflow:
-        #     title: global.stack_overflow
-        #     url: http://stackoverflow.com/users
-        #     icon: stack-overflow
-        # twitter:
-        #     title: global.twitter
-        #     url: https://twitter.com/
-        #     icon: twitter
-        # facebook:
-        #     title: global.facebook
-        #     url: https://facebook.com/
-        #     icon: facebook
-        # google_plus:
-        #     title: global.google_plus
-        #     url: https://plus.google.com/
-        #     icon: google-plus
-        # linked_in:
-        #     title: global.linkedin
-        #     url: https://www.linkedin.com/profile/
-        #     icon: linkedin
+        github:
+            title: global.github
+            url: https://github.com/sooglejay
+            icon: github
+        stack_overflow:
+            title: global.stack_overflow
+            url: https://stackoverflow.com/users/5539362/sooglejay?tab=profile
+            icon: stack-overflow
+        twitter:
+            title: global.twitter
+            url: https://twitter.com/
+            icon: twitter
+        facebook:
+            title: global.facebook
+            url: https://facebook.com/sooglejay
+            icon: facebook
+        google_plus:
+            title: global.google_plus
+            url: https://plus.google.com/sooglejay
+            icon: google-plus
+        linked_in:
+            title: global.linkedin
+            url: https://www.linkedin.com/profile/sooglejay
+            icon: linkedin
         # mail:
         #     title: global.mail
         #     url: mailto:
@@ -123,7 +123,7 @@ author:
     # or in `source/assets/images/` (production)
     # or you can use an external url
     # Overwritten by your gravatar image if `gravatar_email` is filled
-    picture:
+    picture: author_icon.jpg
     # Your Twitter username without the @. E.g : `tranquilpeak`
     twitter:
     # Your personal google plus profile id, not your blog or business page id.
